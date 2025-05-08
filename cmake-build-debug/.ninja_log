@@ -1,0 +1,27 @@
+# ninja log v6
+5	55	7683662945775664	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+2	262	7683662945745615	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+263	353	7683662948356067	Week_7_Project.exe	43519b41a347a885
+3	161	7683692987547069	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+162	327	7683692989129035	Week_7_Project.exe	43519b41a347a885
+19	66	7683697228271734	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+16	359	7683697228251011	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+15	62	7683697618652999	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+15	60	7683698273098412	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+4	292	7683699560725156	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+3	287	7683700159608410	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+16	306	7683700223483156	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+18	182	7683741523923235	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+23	69	7683742123940622	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+69	134	7683742124404671	Week_7_Project.exe	43519b41a347a885
+16	63	7683742932746531	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+64	134	7683742933220483	Week_7_Project.exe	43519b41a347a885
+17	362	7683744895149286	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+362	428	7683744898597152	Week_7_Project.exe	43519b41a347a885
+19	70	7683747816642367	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+16	328	7683747816611897	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+328	393	7683747819730941	Week_7_Project.exe	43519b41a347a885
+15	327	7683748555536792	CMakeFiles/Week_7_Project.dir/main.cpp.obj	302ba6ad54a9cdd0
+327	393	7683748558665881	Week_7_Project.exe	43519b41a347a885
+15	64	7683753825440399	CMakeFiles/Week_7_Project.dir/Mystring.cpp.obj	a4cbed97d3540cd7
+64	126	7683753825930410	Week_7_Project.exe	43519b41a347a885
